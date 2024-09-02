@@ -390,8 +390,22 @@ hr {
 /* For small screen sizes 800px and down */
 @media screen and (max-width: 800px) {
 #photos {
-    column-count: 2;
+    column-count: 1;
 } 
 
 }
+}
+
+.section, main { 
+    clear: left;
+    background: url("../images/Bang-Bao-Beach-Koh-Kood.jpg") no-repeat center center/cover;
+    width: 100%
+
+}
+
+label, input {
+    text-align: center;
+    position: center;
+    padding: 0%;
+    
 }
