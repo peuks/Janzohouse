@@ -395,17 +395,3 @@ hr {
 
 }
 }
-
-.section, main { 
-    clear: left;
-    background: url("../images/Bang-Bao-Beach-Koh-Kood.jpg") no-repeat center center/cover;
-    width: 100%
-
-}
-
-label, input {
-    text-align: center;
-    position: center;
-    padding: 0%;
-    
-}
