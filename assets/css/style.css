@@ -22,8 +22,11 @@ h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
-    
+    color: #252525;  
+}
+
+.sm-font, h3 {
+    font-size: 14px;
 }
 
 h1, h2 {
@@ -61,7 +64,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('../images/janzo\ house\ 2.jpg') no-repeat top center / cover;
+    background: url('../images/janzo-bungalow-two.jpg') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -167,7 +170,7 @@ main {
 
 /* Meetup Times section */
 #times {
-    background: url('../images/sunset\ for\ janzohouse.jpg') no-repeat center/cover;
+    background: url('../images/sunset.jpg') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
@@ -408,7 +411,6 @@ hr {
     align-items: center;
     width: 100%;
     height: 800px;
-    color: #fafafa;
+    color: black;
+    font-size: xx-large;
 }
-
-
