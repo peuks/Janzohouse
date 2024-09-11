@@ -4,7 +4,7 @@ Janzo house is a house room fully equiped with kitchen and bed room renting on a
 everybody can sign up through the form application and choose between options for booking by email or for get information to prepare the further stays.
 the form is already set up to include both option: it is up to the user to decide.
 
-In the section "why choose janzo house bungalow?" there is information for guidance of what to do and place to visit depending of the users mood.
+In the section "why choose janzo house bungalow?" there is information for guidance of what to do and place to visit depending of the users need.
 there is also a full description of the ressort for have an idea to what to expect while you prepare you holidays. 
 
 ![Am I Responsive](/assets/images/Capture-d’écran-pour-read-me.png)
@@ -94,3 +94,82 @@ Users can contact Janzo House if they wish to book or get information about the 
    * Show the look of the bungalow room images 
 
    ![Why choose Janzo House bungalow?](assets/images/sectiontwo.png)
+
+   * Footer
+    
+    * Links to the social media for Janzo House will open in a new tab to allow easy navigation for the user.
+    * It is valuable to the user as it gives them an easy contact option via social media.
+    * It give information for the the user about break-fast and checkin/out time.
+
+    ![Footer](assets/images/footer-and-information.png)
+
+   * Gallery
+    
+    * The gallery will provide the user with supporting images to see how the rooms look and the beach.
+    * This section is valuable to the user as they will see how is look like.
+
+   ![Gallery](/assets/images/gallery-pic.png)
+
+   * The sign up page 
+     
+      * This page will allow users to choose which information needed, sign up for it.
+      * The user can choose information or booking or both.
+
+
+   ![Sign Up Form](/assets/images/signup-readme.png)
+
+     * The sign up received page
+       * Form received 
+
+      ![Form received](/assets/images/receivedform.png)
+
+      ---
+
+      ## Features left to Implement
+
+      * Update gallery with additional images
+      
+      ---
+
+      ## Technologies Used
+
+       * [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+       * [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+      ---
+
+      ## Frameworks, Libraries & programs used
+        
+         * [Gitpod](https://www.gitpod.io/)
+             
+             * To write the code.
+
+         * [Github](https://github.com/)
+
+            * Deployement of the website and storing the files online.
+
+         * [Google fonts](https://fonts.google.com/)
+
+            * Importe main font the website.
+
+         * [Am I Responsive](https://ui.dev/amiresponsive)
+           
+            * Mockup picture for the README FILE.
+
+         ---
+
+         ## Testing 
+          
+           The W3C Markup Validator and W3C CSS validator services were used to validate every page of the project to ensure there were no errors.
+
+           * [W3C Markup Validator](https://validator.w3.org/)
+           * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+
+        ### validation results
+
+         <details>
+         <summary>index.html
+         </summary>
+
+         
