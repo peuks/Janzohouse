@@ -1,7 +1,7 @@
 # Janzo House
 
-Janzo house is a house room fully equiped with kitchen and bed room renting on a island of koh kood for those who want to go in holiday and have a good place to stay while they enjoy the beauty of the island.
-everybody can sign up through the form application and choose between options for booking by email or for get information to prepare the further stays.
+Janzo House is a house room fully equiped with kitchen and bed room renting on a island of koh kood for those who want to go in holiday and have a good place to stay while they enjoy the beauty of the island.
+everybody can sign up through the form application and choose between options for booking by email or for getting information to prepare the further stays.
 the form is already set up to include both option: it is up to the user to decide.
 
 In the section "why choose janzo house bungalow?" there is information for guidance of what to do and place to visit depending of the users need.
