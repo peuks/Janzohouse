@@ -340,13 +340,13 @@ main {
 
 #center-about {
     clear: both;
-    width: 100%
+    width: 100%;
    float: left;
     padding: 0;
 }
 
 #times > div {
-    width: 100;
+    width: 100 0;
     clear: both;
     height: 150px;
     padding: 0;
@@ -419,7 +419,7 @@ hr {
 .box {
     background: url("../images/Bang-Bao-Beach-Koh-Kood.jpg") no-repeat top center / cover;
     text-align: center;
-    position: center top;
+    position: center;
     justify-content: center;
     display: flex;
 }
