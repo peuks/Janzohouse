@@ -346,7 +346,7 @@ main {
 }
 
 #times > div {
-    width: 100 0;
+    width: 100%;
     clear: both;
     height: 150px;
     padding: 0;
