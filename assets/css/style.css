@@ -419,7 +419,6 @@ hr {
 .box {
     background: url("../images/Bang-Bao-Beach-Koh-Kood.jpg") no-repeat top center / cover;
     text-align: center;
-    position: center;
     justify-content: center;
     display: flex;
 }
